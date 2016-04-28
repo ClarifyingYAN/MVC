@@ -3,6 +3,3 @@
 
 // 引入PHP文件
 include './PHP/YanPHP.php';
-
-// 创建
-$a = new route();
